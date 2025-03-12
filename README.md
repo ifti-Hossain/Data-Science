@@ -16,6 +16,8 @@ The different analysis performed on the dataframe are as follows:
 ### 9) Credit info based filter
 
 ## Dependencies:
-• Python 3.x
-• Pandas
-• Jupyter Notebook
+ • Python 3.x
+ 
+ • Pandas
+ 
+ • Jupyter Notebook
